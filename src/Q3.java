@@ -1,3 +1,4 @@
+//merge sort
 public class Q3 {
     public static void printarr(int[] intArray){
         for(int i=0; i<intArray.length; i++){
